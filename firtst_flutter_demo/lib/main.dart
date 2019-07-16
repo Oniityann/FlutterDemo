@@ -1,7 +1,8 @@
 import 'package:firtst_flutter_demo/pluginusage.dart';
+import 'package:firtst_flutter_demo/stateless_page.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(PluginUsage());
+void main() => runApp(StatelessPage());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
